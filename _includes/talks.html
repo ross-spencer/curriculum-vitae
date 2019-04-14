@@ -1,0 +1,38 @@
+{% assign talks = site.data.data.talks %}
+{% if talks %}
+<section class="section projects-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-microphone-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ talks.title }}
+  </h2>
+
+  {% if talks.intro %}
+  <div class="intro">
+      <p>{{ talks.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for talks in talks.where %}
+    <div class="item">
+
+      <span class="talks-title">{{ talks.where }}</span>
+
+      {% if talks.link %}
+      <span class="talks-tagline">
+        <a href="{{ talks.link }}" target="_blank">{{ talks.title }}</a>
+      </span>
+      {% endif %}
+
+      {% if !talks.nolink %}
+      <span class="talks-tagline">{{ talks.title }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

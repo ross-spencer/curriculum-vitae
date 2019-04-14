@@ -1,200 +1,336 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
+# Data to populate the CV web-page.
+
+career-profile:
+    title: Career Profile
+    summary: |
+        Digital preservation domain expert and full-stack developer. I am a
+        researcher, analyst, and programmer. I work on the Archivematica
+        project. I have ten years of experience in government archives and have
+        a keen interest in records and information management. I have UK
+        security check clearance valid for 10 years from 3 July 2012.
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False        # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True     # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    # Profile information.
+    name: Ross Spencer
+    tagline: Digital Preservation Developer
+    avatar:
 
-    # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    # Sidebar links.
+    website: exponentialdecay.co.uk
+    github: ross-spencer
+    email: all.along.the.watchtower2001+cv@gmail.com
+    linkedin: ross-spencer-b6b9b758/
+    twitter: '@beet_keeper'
+
+    # Github organisations.
+    github-1: exponential-decay
+    github-2: httpreserve
+    github-3: kval-access-language
+
+    # Blogs
+    wordpress-1: exponentialdecay.co.uk/blog
+    wordpress-2: openpreservation.org/blog
+    wordpress-3: blog.nationalarchives.gov.uk
 
     languages:
       - idiom: English
         level: Native
 
       - idiom: French
-        level: Professional
+        level: Novice
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: German
+        level: Beginner
 
     interests:
-      - item: Climbing
-        link:
+      - item: Music
+        text: I love singing and listening to all kinds of music. Aspirations to play piano again.
 
-      - item: Snowboarding
-        link:
+      - item: Sports
+        text: I enjoy playing football, I am a fan of everything from motorsports to snooker.
 
-      - item: Cooking
-        link:
-
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      - item: Coding
+        text: Remains my day-to-day hobby. I enjoy thinking about new problems and being creative through code.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: MA Digital Culture and Technology
+      university: Kings College London
+      time: 2004 - 2006
+      details:
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: BSc Software Engineering with Psychology
+      university: Keele University
+      time: 2001 - 2004
+      details:
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Developer
+      time: 2017 - Present
+      company: Artefactual Systems, Canada
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        A developer on the Archivematica project. I work with colleagues to
+        analyze client digital preservation and digital preservation workflow
+        requirements and find solutions to satisfy those. Archivematica is
+        developed in Python, but solutions need not always require a
+        programming solution, nor be centered around the system itself.
 
-          - Bullet point
-          - Bullet point
+          - Python development.
+          - Design and development of solutions.
+          - Analysis of client requirements.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Digital Preservation Analyst
+      time: 2013 - 2017
+      company: Archives New Zealand, New Zealand
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Digital Preservation Analyst at Archives New Zealand whose primary role
+        is to support the System, Strategy, Standards team (SSS) formerly
+        Digital Continuity; in making preservation decisions and providing
+        digital preservation guidance. Having worked with colleagues to help
+        enable Archive New Zealand's first born-digital transfers.
 
-          - Bullet point
-          - Bullet point
+        The organization required me to work closely with digital preservation
+        colleagues at National Library New Zealand and the Alexander Turnbull
+        Library to develop Digital Preservation strategy and policy.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Our mandate also enabled digital preservation outreach across the New
+        Zealand government sector.
+
+        I maintained strong personal links with the wider digital preservation
+        community. It is hoped our benefit from the community's effort was
+        somewhat equal to what I hope we were able to contribute.
+
+          - Policy development across the New Zealand government sector.
+          - Development of digital preservation workflows.
+          - Outreach within the New Zealand digital preservation community.
+
+    - role: Digital Preservation Researcher
+      time: 2009 - 2012
+      company: The National Archives, United Kingdom
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        The research and provision of solutions to the end of preserving
+        government's digital records.
 
-          - Bullet point
-          - Bullet point
+        Part of my focus was researching file format specifications and
+        developing mechanisms to identify those file formats using regular
+        expression patterns unique to The National Archives' PRONOM database.
+        My role was also centered on the development of policy to be followed
+        internally, and by contractors employed on projects such as those for
+        digitization.
+
+        I was able to make connections with the wider digital preservation
+        community while in my role at The National Archives where we were
+        invited to participate in projects such as the Unified Digital File
+        Formats Registry (UDFR); or working groups such as that for the
+        development of JPEG2000 policy and procedures at the Wellcome
+        Trust in the UK.
+
+        I was able to continue programming for The National Archives, UK,
+        developing solutions for them in Python, PHP, and C++. Though much of
+        it was completed in my spare time to then convert into work
+        assignments, for example, the PRONOM signature development utility.
+
+          - PRONOM and DROID signature development.
+          - File format Analysis.
+          - Development of procedure and standards for transfer.
+
+    - role: Junior Analyst Programmer
+      time: 2007 - 2009
+      company: Red Box Recorders, United Kingdom
+      details: |
+        Junior Analyst Programmer developing VOIP (Voice over IP) recording
+        solutions; written primarily in C++. Areas of focus included improving
+        existing solutions for recording Avaya, Nortel, Cisco, Ericsson and SIP
+        VOIP calls, and implementing new solutions for VOIP providers such as
+        Panasonic. Some other important protocols I focused on included, H225,
+        Q931, and MGCP. I was also involved in back end development for our web
+        front-end maintaining an ISAPI DLL. Front-end development required
+        JavaScript and XHTML skills to add functionality to a HTML-form based
+        interface. I introduced the use of AJAX to the recorder front-end.
+
+        At Red Box I saw through a number of important projects including the
+        implementation of a number of new features such as the development of a
+        search filtering mechanism; and a Cisco-based recording as a service
+        solution. I developed fixes for many different areas of the system as
+        part of additional third-line support duties.
+
+        Through my work at Red Box Recorders I refined my problem solving
+        abilities and developed a better grasp for team work and meeting
+        project deadlines. The contribution of this role to my knowledge of
+        digital forensics, reverse engineering, and understanding of the IP
+        stack and technical specifications remains immeasurable in the roles I
+        have pursued in my current domain.
+
+          - Reverse engineering.
+          - Analysis of specifications.
+          - Protocol level development.
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Painter Goblin
+        link: "https://twitter.com/paintergoblin"
+        tagline: "A Twitter bot remixing commons-available art discovered on Wikidata."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: the-fr.org
+        link: "http://the-fr.org"
+        tagline: "The Format Registry [dot] org. A PRONOM mirror developed using linked-open-data principles with SPARQL access to PRONOM's data."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: HTTPreserve
+        link: "http://httpreserve.info/"
+        tagline: "A project to enable users to audit broken hyperlinks and find the earliest and latest entries in the Internet Archive."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: KVAL Access Language
+        link: "https://github.com/kval-access-language"
+        tagline: "A dialect for adding data to, and retrieving data from key-value stores."
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+    intro:
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: The Digital Image.
+        authors: Spencer, R.
+        conference: "in: Bülow, A. and Ahmon, J. Preparing Collections for Digitization. London: Facet Publishing (2010). 33-45."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Generation of a Skeleton Corpus of Digital Objects for the Validation and Evaluation of Format Identification Tools and Signatures.
+        authors: Spencer, R.
+        conference: Volume 8, International Journal of Digital Curation (2013), 120-130.
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Reimagining the Format Model: Introducing the Work of the NSLA Digital Preservation Technical Registry."
+        authors: McKinney, P. Knight, S. Gattuso, J. Pearson, D. Coufalb, L. Anderson, D. Delve, J. De Vorsey, K. Spencer, R. Hutař, J.
+        conference: New Review of Information Networking, Volume 19, Issue 2, 20, (2014), 96-123.
+
+      - title: "A next generation technical registry: moving practice forward."
+        authors: McKinney, P. Knight, S. Gattuso, J. Pearson, D. Coufalb, L. Anderson, D. Delve, J. De Vorsey, K. Spencer, R. Hutař, J.
+        conference: iPRES Intl. Conf. on Digital Preservation. Proceedings 2014, (2014), 44-50.
+
+      - title: Binary trees? Automatically identifying the links between born-digital records.
+        authors: Spencer, R.
+        conference: Archives and Manuscripts, Volume 45, Issue 2, (2017), 77-99.
+
+      - title: Digital Preservation as a thought experiment,
+        authors: Spencer, R.
+        conference: "in: Digital Preservation in Libraries, Preparing for a Sustainable Future, Association for Library Collections and Technical Services (ALCTS), USA, (2018), 21-33."
+
+talks:
+    title: Talks and Presentations
+    intro:
+
+    where:
+      - where: 8th European Conference on Digital Archiving, Geneva, Switzerland, 2010.
+        title: The risky business of digital preservation. The application of risk models to digital file format obsolescence.
+        link: http://exponentialdecay.co.uk/blog/risk-modelling-uncertainty-and-file-format-obsolesence-european-conference-on-digital-archives-2010/
+        nolink: False
+
+      - where: The Future of File Format Identification, PRONOM and DROID User Consultation, Kew, UK, 2011.
+        title: When is a migration pathway not a migration pathway.
+        link: https://prezi.com/yoobogt4ftqy/when-is-a-migration-pathway-not-a-migration-pathway/
+        nolink: False
+
+      - where: 7th International Digital Curation Conference, Bristol, UK, 2011.
+        title: Towards the development of a test corpus of digital objects for the evaluation of file format identification tools and signatures, on behalf of Andrew Fetherston and Timothy Gollins.
+        link:
+        nolink: True
+
+      - where: Future Perfect 2012, Wellington, New Zealand, 2012.
+        title: Survival of the bits...
+        link: https://prezi.com/5wv23hslkjtk/survival-of-the-bits/
+        nolink: False
+
+      - where: 8th International Digital Curation Conference, Amsterdam, 2013.
+        title: Generation of a Skeleton Corpus of Digital Objects for the Validation and Evaluation of Format Identification Tools and Signatures.
+        link: http://exponentialdecay.co.uk/blog/the-problem-with-comprehensive-test-suites/
+        nolink: False
+
+      - where: THATCamp, Wellington, 2013.
+        title: What can a SPARQL endpoint do for you.
+        link: https://perma.cc/ZR9A-EHYY
+        nolink: False
+
+      - where: Born Digital and Cultural Heritage, Play It Again Project, Melbourne, Australia, 2014.
+        title: "Fly Away Home Pilot Transfer of Born-digital Records at Archives New Zealand."
+        link: https://soundcloud.com/exponential-decay/fly-away-home-pilot-transfer-of-born-digital-records-at-archives-new-zealand
+        nolink: False
+
+      - where: "Connecting: Past, Present and Future, ARANZ ASA Conference, Christchurch, 2014."
+        title: Legacy digital and outreach @Archives NZ.
+        link: https://www.slideshare.net/RossSpencer?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
+        nolink: False
+
+      - where: "Open Preservation Foundation, Preservation in Practice, Webinar, 2015."
+        title: "Preservation in Practice: Archives New Zealand."
+        link: https://perma.cc/QL45-R278
+        nolink: False
+
+      - where: Footprints in Space and Time, ARANZ Conference, Auckland, 2015.
+        title: "Time travelling analyst: the things only a time machine can tell me."
+        link: https://www.slideshare.net/RossSpencer?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
+        nolink: False
+
+      - where: "Forging Links: people, systems, archives. ASA Conference, Sydney, 2016."
+        title: Binary Trees? Automatically identifying the links between born-digital records.
+        link:
+        nolink: True
+
+      - where: "Forging Links: people, systems, archives. ASA Conference, Sydney, 2016"
+        title: "Parallel Lines: Processing born-digital collections."
+        link: https://perma.cc/UBM9-4G43
+        nolink: False
+
+      - where: Cambridge University Library with the Centre for Research Arts, Social Sciences and Humanities, Cambridge, 2017.
+        title: A New Zealand perspective on preserving digital materials for the future.
+        link:
+        nolink: True
+
+      - where: Archivematica Camps, Baltimore, Johannesberg, Houston, 2018.
+        title: Technical stream lead.
+        link:
+        nolink: True
+
+      - where: Institut für Österreichische Geschichtsforschung Universität Wien, Vienna, 2019.
+        title: "Digital preservation at the coalface: or how I learned that glamping doesn’t always involve the vast wilderness."
+        link: https://perma.cc/UY3Y-LEZA
+        nolink: False
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Golang
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: C/C++
+        level: 56%
 
-      - name: Ruby on Rails
+      - name: PHP
+        level: 66%
+
+      - name: Linux
+        level: 80%
+
+      - name: Databases
+        level: 68%
+
+      - name: Semantic web
+        level: 75%
+
+      - name: Web languages
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+awards:
+    title: Awards and Honours
+    info:
+      - link: https://www.archivists.org.au/news/2017-archives-manuscripts-emerging-writers-award-announced
+        title: Archives and Manuscripts Sigrid McCausland Emerging Writers Award (2017)
+        text: Volume 45, Number 2, July 2017 – Ross Spencer, ‘Binary Trees? Automatically identifying the links between born-digital records’.
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying <i class="fas fa-heart"></i> Riley</a>

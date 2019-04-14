@@ -1,28 +1,29 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: My Resume
-url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
-# Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: blue # blue turquoise green berry orange ceramic
-chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+#
+title: Ross Spencer, Digital Preservation CV. (Archivematica, DROID, PRONOM)
+url: 'http://ross-spencer.github,io'
+baseurl: '/curriculum-vitae' #change it according to your repository name
 
-# Tracker
-analytics: UA-83979019-1
-
-
+# Style will be applied only after restarting the build or serve.
+# Just choose one of the options.
+#
+theme_skin: berry               # blue turquoise green berry orange ceramic
+chrome_mobile_color: #56456B    #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Sass/SCSS
+#
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Build settings
+#
 compress-site: yes
 
 encoding: "utf-8"
-compress_html: # - http://jch.penibelst.de/
+compress_html:      # http://jch.penibelst.de/
   clippings: all
   ignore:
     envs: development

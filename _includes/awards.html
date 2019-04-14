@@ -1,0 +1,34 @@
+{% assign awards = site.data.data.awards %}
+{% if awards %}
+<section class="section projects-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-trophy fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ awards.title }}
+  </h2>
+
+  {% if awards.intro %}
+  <div class="intro">
+      <p>{{ awards.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for awards in awards.info %}
+    <div class="item">
+
+      <span class="project-title">
+        <a href="{{ awards.link }}">{{ awards.title }}</a>
+      </span>
+
+      {% if awards.text %}
+      : <span class="talks-tagline">{{ awards.text }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
