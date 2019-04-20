@@ -176,6 +176,10 @@ projects:
         link: "https://twitter.com/paintergoblin"
         tagline: "A Twitter bot remixing commons-available art discovered on Wikidata."
 
+      - title: NASA Wakup Calls
+        link: "https://github.com/nasawakeupcalls"
+        tagline: "A chronology of NASA wakeup call information turned into data. A pet project, combining my hobbies of space, music, and data."
+
       - title: the-fr.org
         link: "http://the-fr.org"
         tagline: "The Format Registry [dot] org. A PRONOM mirror developed using linked-open-data principles with SPARQL access to PRONOM's data."
@@ -195,26 +199,44 @@ publications:
       - title: The Digital Image.
         authors: Spencer, R.
         conference: "in: Bülow, A. and Ahmon, J. Preparing Collections for Digitization. London: Facet Publishing (2010). 33-45."
+        link:
+        nolink: True
 
       - title: Generation of a Skeleton Corpus of Digital Objects for the Validation and Evaluation of Format Identification Tools and Signatures.
         authors: Spencer, R.
         conference: Volume 8, International Journal of Digital Curation (2013), 120-130.
+        link: http://www.ijdc.net/index.php/ijdc/article/view/8.1.120
+        nolink: False
 
       - title: "Reimagining the Format Model: Introducing the Work of the NSLA Digital Preservation Technical Registry."
         authors: McKinney, P. Knight, S. Gattuso, J. Pearson, D. Coufalb, L. Anderson, D. Delve, J. De Vorsey, K. Spencer, R. Hutař, J.
         conference: New Review of Information Networking, Volume 19, Issue 2, 20, (2014), 96-123.
+        link:
+        nolink: True
 
       - title: "A next generation technical registry: moving practice forward."
         authors: McKinney, P. Knight, S. Gattuso, J. Pearson, D. Coufalb, L. Anderson, D. Delve, J. De Vorsey, K. Spencer, R. Hutař, J.
         conference: iPRES Intl. Conf. on Digital Preservation. Proceedings 2014, (2014), 44-50.
+        link:
+        nolink: True
 
       - title: Binary trees? Automatically identifying the links between born-digital records.
         authors: Spencer, R.
         conference: Archives and Manuscripts, Volume 45, Issue 2, (2017), 77-99.
+        link: https://www.tandfonline.com/doi/abs/10.1080/01576895.2017.1330158?journalCode=raam20
+        nolink: False
 
-      - title: Digital Preservation as a thought experiment,
+      - title: My GLAM — Ross Spencer, Software Developer, Artefactual Systems.
+        authors: Spencer, R.
+        conference: Australian Society of Archivists, ASA Vic Branch Newsletter. October 2018, (2018), 5.
+        link: https://perma.cc/2YQN-FWTL
+        nolink: False
+
+      - title: Digital Preservation as a thought experiment.
         authors: Spencer, R.
         conference: "in: Digital Preservation in Libraries, Preparing for a Sustainable Future, Association for Library Collections and Technical Services (ALCTS), USA, (2018), 21-33."
+        link: https://perma.cc/K7MA-FFAC
+        nolink: False
 
 talks:
     title: Talks and Presentations
