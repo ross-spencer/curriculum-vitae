@@ -69,41 +69,56 @@ education:
 experiences:
     - role: Software Developer
       time: 2017 - Present
-      company: Artefactual Systems, Canada
+      company: Artefactual Systems Inc., Canada
       details: |
-        A developer on the Archivematica project. I work with colleagues to
-        analyze client digital preservation and digital preservation workflow
-        requirements and find solutions to satisfy those. Archivematica is
-        developed in Python, but solutions need not always require a
-        programming solution, nor be centered around the system itself.
+        Working on the Archivematica and Access to Memory projects. My role is
+        to analyze digital preservation workflow requirements and find software
+        based solutions to satisfy those. Analysis may be done on client
+        requirements or on those set-out by the analyst teams at Artefactual.
+        Archivematica is developed in Python but solutions may not always
+        require the use of code, nor be focused on the system itself.
 
-          - Python development.
-          - Design and development of solutions.
-          - Analysis of client requirements.
+        I have been involved in the Access to Memory (AtoM) project in the
+        migration of legacy archival records to formats compatible with the
+        system.
+
+        I have delivered technical training at three Archivematica Camps, in
+        South Africa and the United States and participated in an Archivematica
+        camp in the Netherlands. I have also developed training materials on an
+        ad-hoc basis depending on a client's needs.
+
+          - Analysis, design, and delivery of client solutions.
+          - Maintenance and documentation of new and legacy code and systems.
+          - Delivering Archivematica training.
 
     - role: Digital Preservation Analyst
       time: 2013 - 2017
       company: Archives New Zealand, New Zealand
       details: |
         Digital Preservation Analyst at Archives New Zealand whose primary role
-        is to support the System, Strategy, Standards team (SSS) formerly
+        was to support the System, Strategy, Standards team (SSS) formerly
         Digital Continuity; in making preservation decisions and providing
         digital preservation guidance. Having worked with colleagues to help
         enable Archive New Zealand's first born-digital transfers.
 
-        The organization required me to work closely with digital preservation
+        The organization required us to work closely with digital preservation
         colleagues at National Library New Zealand and the Alexander Turnbull
-        Library to develop Digital Preservation strategy and policy.
+        Library to develop joint-digital preservation strategy and policy.
 
-        Our mandate also enabled digital preservation outreach across the New
-        Zealand government sector.
+        Our mandate also enabled us to perform digital preservation outreach
+        tasks across the New Zealand government sector.
 
         I maintained strong personal links with the wider digital preservation
         community. It is hoped our benefit from the community's effort was
         somewhat equal to what I hope we were able to contribute.
 
-          - Policy development across the New Zealand government sector.
-          - Development of digital preservation workflows.
+        I was a member of the Archives New Zealand Waiata group, Nga Manu Iere
+        which helped me to foster a more personal and cultural understanding of
+        New Zealand and its traditions.
+
+          - Policy development across New Zealand's government sector.
+          - Development of digital preservation workflows.)
+          - Collaboration with teams to resolve complex technical issues.
           - Outreach within the New Zealand digital preservation community.
 
     - role: Digital Preservation Researcher
@@ -130,11 +145,13 @@ experiences:
         I was able to continue programming for The National Archives, UK,
         developing solutions for them in Python, PHP, and C++. Though much of
         it was completed in my spare time to then convert into work
-        assignments, for example, the PRONOM signature development utility.
+        assignments, for example, the
+        [PRONOM signature development utility](http://www.nationalarchives.gov.uk/pronom/sigdev/index.htm).
 
           - PRONOM and DROID signature development.
+          - Requirements analysis and community outreach.
           - File format Analysis.
-          - Development of procedure and standards for transfer.
+          - Development of procedure and standards for born-digital transfer.
 
     - role: Junior Analyst Programmer
       time: 2007 - 2009
@@ -199,31 +216,37 @@ publications:
       - title: The Digital Image.
         authors: Spencer, R.
         conference: "in: Bülow, A. and Ahmon, J. Preparing Collections for Digitization. London: Facet Publishing (2010). 33-45."
-        link:
-        nolink: True
+        link: http://www.facetpublishing.co.uk/title.php?id=7111&category_code=105
+        nolink: False
 
       - title: Generation of a Skeleton Corpus of Digital Objects for the Validation and Evaluation of Format Identification Tools and Signatures.
         authors: Spencer, R.
         conference: Volume 8, International Journal of Digital Curation (2013), 120-130.
-        link: http://www.ijdc.net/index.php/ijdc/article/view/8.1.120
+        link: http://dx.doi.org/10.2218/ijdc.v8i1.249
+        nolink: False
+
+      - title: "Fly Away Home: Pilot Transfer of Born-digital Records at Archives New Zealand"
+        authors: Spencer, R. Braden, A. Hutař, J. Crouch, M. Mosely, S. Masters, T.
+        conference: Born Digital and Cultural Heritage Conference, (2014), Unpublished.
+        link: https://perma.cc/CYW7-B384
         nolink: False
 
       - title: "Reimagining the Format Model: Introducing the Work of the NSLA Digital Preservation Technical Registry."
         authors: McKinney, P. Knight, S. Gattuso, J. Pearson, D. Coufalb, L. Anderson, D. Delve, J. De Vorsey, K. Spencer, R. Hutař, J.
         conference: New Review of Information Networking, Volume 19, Issue 2, 20, (2014), 96-123.
-        link:
-        nolink: True
+        link: https://doi.org/10.1080/13614576.2014.972718
+        nolink: False
 
       - title: "A next generation technical registry: moving practice forward."
         authors: McKinney, P. Knight, S. Gattuso, J. Pearson, D. Coufalb, L. Anderson, D. Delve, J. De Vorsey, K. Spencer, R. Hutař, J.
-        conference: iPRES Intl. Conf. on Digital Preservation. Proceedings 2014, (2014), 44-50.
-        link:
-        nolink: True
+        conference: "iPRES Intl. Conf. on Digital Preservation. Proceedings 2014, (2014), 44-50."
+        link: http://www.ipres-conference.org/ipres14/sites/default/files/upload/iPres-Proceedings-final.pdf
+        nolink: False
 
       - title: Binary trees? Automatically identifying the links between born-digital records.
         authors: Spencer, R.
         conference: Archives and Manuscripts, Volume 45, Issue 2, (2017), 77-99.
-        link: https://www.tandfonline.com/doi/abs/10.1080/01576895.2017.1330158?journalCode=raam20
+        link: https://doi.org/10.1080/01576895.2017.1330158
         nolink: False
 
       - title: My GLAM — Ross Spencer, Software Developer, Artefactual Systems.
@@ -237,6 +260,12 @@ publications:
         conference: "in: Digital Preservation in Libraries, Preparing for a Sustainable Future, Association for Library Collections and Technical Services (ALCTS), USA, (2018), 21-33."
         link: https://perma.cc/K7MA-FFAC
         nolink: False
+
+      - title: Archivematica as a Case Study for Sustained Digital Preservation.
+        authors: Blewer, A. Romkey, S. Spencer, R.
+        conference: "iPRES Intl. Conf. on Digital Preservation. Proceedings 2019, (2019), Not yet published."
+        link:
+        nolink: True
 
 talks:
     title: Talks and Presentations
