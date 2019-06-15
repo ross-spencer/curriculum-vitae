@@ -209,6 +209,10 @@ projects:
         link: "https://github.com/kval-access-language"
         tagline: "A dialect for adding data to, and retrieving data from key-value stores."
 
+      - title: "Brainscape: Digital Preservation"
+        link: "http://exponentialdecay.co.uk/blog/brainscape-flashcards-for-digital-preservation/"
+        tagline: "Open source digital-preservation flash cards."
+
 publications:
     title: Publications
     intro:
