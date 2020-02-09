@@ -217,40 +217,16 @@ publications:
     title: Publications
     intro:
     papers:
-      - title: The Digital Image.
+      - title: Archivematica as a Case Study for Sustained Digital Preservation.
+        authors: Blewer, A. Romkey, S. Spencer, R.
+        conference: "iPRES Intl. Conf. on Digital Preservation. Proceedings 2019, (2019), Not yet published."
+        link:
+        nolink: True
+
+      - title: Digital Preservation as a thought experiment.
         authors: Spencer, R.
-        conference: "in: Bülow, A. and Ahmon, J. Preparing Collections for Digitization. London: Facet Publishing (2010). 33-45."
-        link: http://www.facetpublishing.co.uk/title.php?id=7111&category_code=105
-        nolink: False
-
-      - title: Generation of a Skeleton Corpus of Digital Objects for the Validation and Evaluation of Format Identification Tools and Signatures.
-        authors: Spencer, R.
-        conference: Volume 8, International Journal of Digital Curation (2013), 120-130.
-        link: http://dx.doi.org/10.2218/ijdc.v8i1.249
-        nolink: False
-
-      - title: "Fly Away Home: Pilot Transfer of Born-digital Records at Archives New Zealand"
-        authors: Spencer, R. Braden, A. Hutař, J. Crouch, M. Mosely, S. Masters, T.
-        conference: Born Digital and Cultural Heritage Conference, (2014), Unpublished.
-        link: https://perma.cc/CYW7-B384
-        nolink: False
-
-      - title: "Reimagining the Format Model: Introducing the Work of the NSLA Digital Preservation Technical Registry."
-        authors: McKinney, P. Knight, S. Gattuso, J. Pearson, D. Coufalb, L. Anderson, D. Delve, J. De Vorsey, K. Spencer, R. Hutař, J.
-        conference: New Review of Information Networking, Volume 19, Issue 2, 20, (2014), 96-123.
-        link: https://doi.org/10.1080/13614576.2014.972718
-        nolink: False
-
-      - title: "A next generation technical registry: moving practice forward."
-        authors: McKinney, P. Knight, S. Gattuso, J. Pearson, D. Coufalb, L. Anderson, D. Delve, J. De Vorsey, K. Spencer, R. Hutař, J.
-        conference: "iPRES Intl. Conf. on Digital Preservation. Proceedings 2014, (2014), 44-50."
-        link: http://www.ipres-conference.org/ipres14/sites/default/files/upload/iPres-Proceedings-final.pdf
-        nolink: False
-
-      - title: Binary trees? Automatically identifying the links between born-digital records.
-        authors: Spencer, R.
-        conference: Archives and Manuscripts, Volume 45, Issue 2, (2017), 77-99.
-        link: https://doi.org/10.1080/01576895.2017.1330158
+        conference: "in: Digital Preservation in Libraries, Preparing for a Sustainable Future, Association for Library Collections and Technical Services (ALCTS), USA, (2018), 21-33."
+        link: https://perma.cc/K7MA-FFAC
         nolink: False
 
       - title: My GLAM — Ross Spencer, Software Developer, Artefactual Systems.
@@ -259,75 +235,59 @@ publications:
         link: https://perma.cc/2YQN-FWTL
         nolink: False
 
-      - title: Digital Preservation as a thought experiment.
+      - title: Binary trees? Automatically identifying the links between born-digital records.
         authors: Spencer, R.
-        conference: "in: Digital Preservation in Libraries, Preparing for a Sustainable Future, Association for Library Collections and Technical Services (ALCTS), USA, (2018), 21-33."
-        link: https://perma.cc/K7MA-FFAC
+        conference: Archives and Manuscripts, Volume 45, Issue 2, (2017), 77-99.
+        link: https://doi.org/10.1080/01576895.2017.1330158
         nolink: False
 
-      - title: Archivematica as a Case Study for Sustained Digital Preservation.
-        authors: Blewer, A. Romkey, S. Spencer, R.
-        conference: "iPRES Intl. Conf. on Digital Preservation. Proceedings 2019, (2019), Not yet published."
-        link:
-        nolink: True
+      - title: "A next generation technical registry: moving practice forward."
+        authors: McKinney, P. Knight, S. Gattuso, J. Pearson, D. Coufalb, L. Anderson, D. Delve, J. De Vorsey, K. Spencer, R. Hutař, J.
+        conference: "iPRES Intl. Conf. on Digital Preservation. Proceedings 2014, (2014), 44-50."
+        link: http://www.ipres-conference.org/ipres14/sites/default/files/upload/iPres-Proceedings-final.pdf
+        nolink: False
+
+      - title: "Reimagining the Format Model: Introducing the Work of the NSLA Digital Preservation Technical Registry."
+        authors: McKinney, P. Knight, S. Gattuso, J. Pearson, D. Coufalb, L. Anderson, D. Delve, J. De Vorsey, K. Spencer, R. Hutař, J.
+        conference: New Review of Information Networking, Volume 19, Issue 2, 20, (2014), 96-123.
+        link: https://doi.org/10.1080/13614576.2014.972718
+        nolink: False
+
+      - title: "Fly Away Home: Pilot Transfer of Born-digital Records at Archives New Zealand"
+        authors: Spencer, R. Braden, A. Hutař, J. Crouch, M. Mosely, S. Masters, T.
+        conference: Born Digital and Cultural Heritage Conference, (2014), Unpublished.
+        link: https://perma.cc/CYW7-B384
+        nolink: False
+
+      - title: Generation of a Skeleton Corpus of Digital Objects for the Validation and Evaluation of Format Identification Tools and Signatures.
+        authors: Spencer, R.
+        conference: Volume 8, International Journal of Digital Curation (2013), 120-130.
+        link: http://dx.doi.org/10.2218/ijdc.v8i1.249
+        nolink: False
+
+      - title: The Digital Image.
+        authors: Spencer, R.
+        conference: "in: Bülow, A. and Ahmon, J. Preparing Collections for Digitization. London: Facet Publishing (2010). 33-45."
+        link: http://www.facetpublishing.co.uk/title.php?id=7111&category_code=105
+        nolink: False
 
 talks:
     title: Talks and Presentations
     intro:
 
     where:
-      - where: 8th European Conference on Digital Archiving, Geneva, Switzerland, 2010.
-        title: The risky business of digital preservation. The application of risk models to digital file format obsolescence.
-        link: http://exponentialdecay.co.uk/blog/risk-modelling-uncertainty-and-file-format-obsolesence-european-conference-on-digital-archives-2010/
+      - where: Institut für Österreichische Geschichtsforschung Universität Wien, Vienna, 2019.
+        title: "Digital preservation at the coalface: or how I learned that glamping doesn’t always involve the vast wilderness."
+        link: http://exponentialdecay.co.uk/blog/digital-preservation-at-the-coalface-or-how-i-learned-that-glamping-doesnt-always-involve-the-vast-wilderness/
         nolink: False
 
-      - where: The Future of File Format Identification, PRONOM and DROID User Consultation, Kew, UK, 2011.
-        title: When is a migration pathway not a migration pathway.
-        link: https://prezi.com/yoobogt4ftqy/when-is-a-migration-pathway-not-a-migration-pathway/
-        nolink: False
-
-      - where: 7th International Digital Curation Conference, Bristol, UK, 2011.
-        title: Towards the development of a test corpus of digital objects for the evaluation of file format identification tools and signatures, on behalf of Andrew Fetherston and Timothy Gollins.
+      - where: Archivematica Camps, Baltimore, Johannesberg, Houston, 2018.
+        title: Technical stream lead.
         link:
         nolink: True
 
-      - where: Future Perfect 2012, Wellington, New Zealand, 2012.
-        title: Survival of the bits...
-        link: https://prezi.com/5wv23hslkjtk/survival-of-the-bits/
-        nolink: False
-
-      - where: 8th International Digital Curation Conference, Amsterdam, 2013.
-        title: Generation of a Skeleton Corpus of Digital Objects for the Validation and Evaluation of Format Identification Tools and Signatures.
-        link: http://exponentialdecay.co.uk/blog/the-problem-with-comprehensive-test-suites/
-        nolink: False
-
-      - where: THATCamp, Wellington, 2013.
-        title: What can a SPARQL endpoint do for you.
-        link: https://perma.cc/ZR9A-EHYY
-        nolink: False
-
-      - where: Born Digital and Cultural Heritage, Play It Again Project, Melbourne, Australia, 2014.
-        title: "Fly Away Home Pilot Transfer of Born-digital Records at Archives New Zealand."
-        link: https://soundcloud.com/exponential-decay/fly-away-home-pilot-transfer-of-born-digital-records-at-archives-new-zealand
-        nolink: False
-
-      - where: "Connecting: Past, Present and Future, ARANZ ASA Conference, Christchurch, 2014."
-        title: Legacy digital and outreach @Archives NZ.
-        link: https://www.slideshare.net/RossSpencer?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
-        nolink: False
-
-      - where: "Open Preservation Foundation, Preservation in Practice, Webinar, 2015."
-        title: "Preservation in Practice: Archives New Zealand."
-        link: https://perma.cc/QL45-R278
-        nolink: False
-
-      - where: Footprints in Space and Time, ARANZ Conference, Auckland, 2015.
-        title: "Time travelling analyst: the things only a time machine can tell me."
-        link: https://www.slideshare.net/RossSpencer?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
-        nolink: False
-
-      - where: "Forging Links: people, systems, archives. ASA Conference, Sydney, 2016."
-        title: Binary Trees? Automatically identifying the links between born-digital records.
+      - where: Cambridge University Library with the Centre for Research Arts, Social Sciences and Humanities, Cambridge, 2017.
+        title: A New Zealand perspective on preserving digital materials for the future.
         link:
         nolink: True
 
@@ -336,19 +296,59 @@ talks:
         link: https://perma.cc/UBM9-4G43
         nolink: False
 
-      - where: Cambridge University Library with the Centre for Research Arts, Social Sciences and Humanities, Cambridge, 2017.
-        title: A New Zealand perspective on preserving digital materials for the future.
+      - where: "Forging Links: people, systems, archives. ASA Conference, Sydney, 2016."
+        title: Binary Trees? Automatically identifying the links between born-digital records.
         link:
         nolink: True
 
-      - where: Archivematica Camps, Baltimore, Johannesberg, Houston, 2018.
-        title: Technical stream lead.
+      - where: Footprints in Space and Time, ARANZ Conference, Auckland, 2015.
+        title: "Time travelling analyst: the things only a time machine can tell me."
+        link: https://www.slideshare.net/RossSpencer?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
+        nolink: False
+
+      - where: "Open Preservation Foundation, Preservation in Practice, Webinar, 2015."
+        title: "Preservation in Practice: Archives New Zealand."
+        link: https://perma.cc/QL45-R278
+        nolink: False
+
+      - where: "Connecting: Past, Present and Future, ARANZ ASA Conference, Christchurch, 2014."
+        title: Legacy digital and outreach @Archives NZ.
+        link: https://www.slideshare.net/RossSpencer?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
+        nolink: False
+
+      - where: Born Digital and Cultural Heritage, Play It Again Project, Melbourne, Australia, 2014.
+        title: "Fly Away Home Pilot Transfer of Born-digital Records at Archives New Zealand."
+        link: https://soundcloud.com/exponential-decay/fly-away-home-pilot-transfer-of-born-digital-records-at-archives-new-zealand
+        nolink: False
+
+      - where: THATCamp, Wellington, 2013.
+        title: What can a SPARQL endpoint do for you.
+        link: https://perma.cc/ZR9A-EHYY
+        nolink: False
+
+      - where: 8th International Digital Curation Conference, Amsterdam, 2013.
+        title: Generation of a Skeleton Corpus of Digital Objects for the Validation and Evaluation of Format Identification Tools and Signatures.
+        link: http://exponentialdecay.co.uk/blog/the-problem-with-comprehensive-test-suites/
+        nolink: False
+
+      - where: Future Perfect 2012, Wellington, New Zealand, 2012.
+        title: Survival of the bits...
+        link: https://prezi.com/5wv23hslkjtk/survival-of-the-bits/
+        nolink: False
+
+      - where: 7th International Digital Curation Conference, Bristol, UK, 2011.
+        title: Towards the development of a test corpus of digital objects for the evaluation of file format identification tools and signatures, on behalf of Andrew Fetherston and Timothy Gollins.
         link:
         nolink: True
 
-      - where: Institut für Österreichische Geschichtsforschung Universität Wien, Vienna, 2019.
-        title: "Digital preservation at the coalface: or how I learned that glamping doesn’t always involve the vast wilderness."
-        link: http://exponentialdecay.co.uk/blog/digital-preservation-at-the-coalface-or-how-i-learned-that-glamping-doesnt-always-involve-the-vast-wilderness/
+      - where: The Future of File Format Identification, PRONOM and DROID User Consultation, Kew, UK, 2011.
+        title: When is a migration pathway not a migration pathway.
+        link: https://prezi.com/yoobogt4ftqy/when-is-a-migration-pathway-not-a-migration-pathway/
+        nolink: False
+
+      - where: 8th European Conference on Digital Archiving, Geneva, Switzerland, 2010.
+        title: The risky business of digital preservation. The application of risk models to digital file format obsolescence.
+        link: http://exponentialdecay.co.uk/blog/risk-modelling-uncertainty-and-file-format-obsolesence-european-conference-on-digital-archives-2010/
         nolink: False
 
 skills:
@@ -357,7 +357,7 @@ skills:
     toolset:
 
       - name: Golang
-        level: 70%
+        level: 75%
 
       - name: Python
         level: 90%
