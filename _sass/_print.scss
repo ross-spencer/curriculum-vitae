@@ -4,23 +4,24 @@
         size: A4;
     }
     body {
-       font-size: 12pt;
+       font-size: 9pt;
     }
 
     img.avatar {
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
+        display: none !important;
     }
    .main-wrapper .time {
        float: right;
         color: black !important;
-        -webkit-print-color-adjust: exact; 
+        -webkit-print-color-adjust: exact;
    }
     .sidebar-wrapper {
         position: static;
         float: right;
         width: 40%;
-        -webkit-print-color-adjust: exact; 
+        -webkit-print-color-adjust: exact;
     }
 
     .remove-container.container-block {
@@ -33,7 +34,19 @@
 
     .skillset .level-bar-inner {
        background-color: black !important;
-       -webkit-print-color-adjust: exact; 
+       -webkit-print-color-adjust: exact;
+
     }
 
+    section.skills-section.section {
+       display: none;
+    }
+
+    div.contact-container.container-block {
+       display: none;
+    }
+
+    a[href]:after {
+      content: none !important;
+    }
 }
