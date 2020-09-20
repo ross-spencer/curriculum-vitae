@@ -32,8 +32,8 @@ sidebar:
 
     # Blogs
     wordpress-1: exponentialdecay.co.uk/blog
-    wordpress-2: openpreservation.org/blog
-    wordpress-3: blog.nationalarchives.gov.uk
+    wordpress-2: openpreservation.org/author/ross-spencer/
+    wordpress-3: blog.nationalarchives.gov.uk/author/rspencer/
 
     languages:
       - idiom: English
@@ -68,6 +68,32 @@ education:
 
 experiences:
     - role: Software Developer
+      time: 2020 - Present
+      company: Independent collaboration with Yale University Library
+      details: |
+        A 350+ hour development project in collaboration with Yale University
+        Library and Siegfried's maintainer to integrate Wikidata sources into
+        the format identification tool. The project involved establishing and
+        maintaining a regular cadence of effort over the course of
+        approximiately seven months in my spare time. My time was contributed
+        on a pro-bono basis and I organized and tracked that effort as I would
+        contracting. Development required the analysis and cleaning of the data
+        in Wikidata; coralling the data into a format suitable for Siegfried;
+        and the Siegfried backend development required to handle the new
+        extension. We are still working on establishing the type of ecosystem
+        required to introduce the digital preservation community into that of
+        Wikidata's.
+
+          - Understanding the Siegfried code-base and learning how to integrate
+          a new data source.
+          - Analysis and cleaning of the Wikidata sources and understanding how
+          to make it a coherent source of information for Siegfried.
+          - Regular collaboration and sharing of ideas with the Yale team and
+          Richard Lehane.
+          - Development of the identifier to deliver the first iteration in
+          September 2020.
+
+    - role: Software Developer
       time: 2017 - Present
       company: Artefactual Systems Inc., Canada
       details: |
@@ -85,9 +111,21 @@ experiences:
         I have delivered technical training at three Archivematica Camps, in
         South Africa and the United States and participated in an Archivematica
         camp in the Netherlands. I have also developed training materials on an
-        ad-hoc basis depending on a client's needs.
+        ad-hoc basis depending on a client's needs. The most recent training I
+        developed was on an ad-hoc basis for a client in Winnipeg.
+
+        My experience with Archivematica and its clients has given me
+        broad experience of some of the challenges facing those in memory
+        institutions. It has given me an opportunity to learn more about
+        systems like Dataverse, and has asked me to consider many different
+        approaches to the work we're doing in the GLAM sector.
+
+        Recently I have had the opportunity to consider novel solutions to
+        challenges like de-duplication, and digital preservation reporting
+        and repository maintenance. Those efforts are still in-progress.
 
           - Analysis, design, and delivery of client solutions.
+          - Communication with and presentation of solutions to clients.
           - Maintenance and documentation of new and legacy code and systems.
           - Delivering Archivematica training.
 
@@ -220,8 +258,8 @@ publications:
       - title: Archivematica as a Case Study for Sustained Digital Preservation.
         authors: Blewer, A. Romkey, S. Spencer, R.
         conference: "iPRES Intl. Conf. on Digital Preservation. Proceedings 2019, (2019), Not yet published."
-        link:
-        nolink: True
+        link: https://ipres2019.org/static/pdf/iPres2019_paper_104.pdf
+        nolink: False
 
       - title: Digital Preservation as a thought experiment.
         authors: Spencer, R.
@@ -290,6 +328,11 @@ talks:
         title: A New Zealand perspective on preserving digital materials for the future.
         link:
         nolink: True
+
+      - where: Web Archiving and Digital Libraries (WADL), Toronto, 2017.
+        title: "HTTPreserve: Auditing document-based hyperlinks"
+        link: https://github.com/httpreserve/wadl-2017/blob/a56f91d154e7cfb4bf84f6442592cf38d177192a/poster-final-jpg/htpreserve-poster.jpg
+        nolink: False
 
       - where: "Forging Links: people, systems, archives. ASA Conference, Sydney, 2016"
         title: "Parallel Lines: Processing born-digital collections."
