@@ -124,10 +124,21 @@ experiences:
         challenges like de-duplication, and digital preservation reporting
         and repository maintenance. Those efforts are still in-progress.
 
-          - Analysis, design, and delivery of client solutions.
-          - Communication with and presentation of solutions to clients.
-          - Maintenance and documentation of new and legacy code and systems.
-          - Delivering Archivematica training.
+          - Develop, integrate, and test software for Artefactual clients or
+          internal projects, in alignment with the goals and standards of the
+          open source projects and the company.
+          - Create designs, proposals and estimates for client or internal
+          solutions, new software or changes to existing systems; clearly
+          communicate how designs meet user, non-functional or architectural
+          goals and requirements.
+          - Create developer focused training collateral and deliver training
+          in remote workshops or client site visits.
+          - Work collaboratively with other members of the Project Delivery
+          Team, and with other Business Units across the company.
+          - Provide public outreach and community support relating to
+          Archivematica or AtoM as open-source projects, including
+          participation in conferences and software camps.
+
 
     - role: Digital Preservation Analyst
       time: 2013 - 2017
