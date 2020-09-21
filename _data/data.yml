@@ -325,6 +325,16 @@ talks:
     intro:
 
     where:
+      - where: Information Matintainers Monthly Meetup (August), 2020
+        title: "Something something twenty years open source..."
+        link: http://exponentialdecay.co.uk/blog/information-maintainers-talk-something-something-twenty-years-open-source/
+        nolink: false
+
+      - where: "Open Planets Foundation (OPFCON): OPFCON, 2020"
+        title: "How has OPF contributed to the international digital preservation community? Where would this community be without OPF?"
+        link: http://exponentialdecay.co.uk/blog/opfcon-how-has-opf-contributed-to-the-international-digital-preservation-community-where-would-this-community-be-without-opf/
+        nolink: false
+
       - where: Institut für Österreichische Geschichtsforschung Universität Wien, Vienna, 2019.
         title: "Digital preservation at the coalface: or how I learned that glamping doesn’t always involve the vast wilderness."
         link: http://exponentialdecay.co.uk/blog/digital-preservation-at-the-coalface-or-how-i-learned-that-glamping-doesnt-always-involve-the-vast-wilderness/
