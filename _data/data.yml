@@ -4,10 +4,12 @@ career-profile:
     title: Career Profile
     summary: |
         Digital preservation domain expert and full-stack developer. I am a
-        researcher, analyst, and programmer. I work on the Archivematica
-        project. I have ten years of experience in government archives and have
-        a keen interest in records and information management. I have UK
-        security check clearance valid for 10 years from 3 July 2012.
+        researcher, analyst, and programmer. I currently work as a Digital
+        Preservation Specialist at Ravensburger AG. I worked previously on the
+        Archivematica project for 3.5 years and before then in the national
+        archives of New Zealand, and also the United Kingdom. I have a keen
+        interest in records and information management. I have UK security
+        check clearance valid for 10 years from 3 July 2012.
 
 sidebar:
     about: False        # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -31,9 +33,9 @@ sidebar:
     github-3: kval-access-language
 
     # Blogs
-    wordpress-1: exponentialdecay.co.uk/blog
-    wordpress-2: openpreservation.org/author/ross-spencer/
-    wordpress-3: blog.nationalarchives.gov.uk/author/rspencer/
+    wordpress-1: exponentialdecay.co.uk
+    wordpress-2: openpreservation.org
+    wordpress-3: nationalarchives.gov.uk
 
     languages:
       - idiom: English
@@ -67,6 +69,16 @@ education:
       details:
 
 experiences:
+
+    - role: Digital preservation Specialist
+      time: 2021 - Present
+      company: Ravensburger AG, Germany
+      details: |
+        Conception of a strategy for digital long-term archiving and digital
+        preservation "lore" at Ravensburger AG. In collaboration with the
+        corporate archivist this is a new role with more details yet to be
+        established.
+
     - role: Software Developer
       time: 2020 - Present
       company: Independent collaboration with Yale University Library
@@ -94,7 +106,7 @@ experiences:
           September 2020.
 
     - role: Software Developer
-      time: 2017 - Present
+      time: 2017 - March 2021
       company: Artefactual Systems Inc., Canada
       details: |
         Working on the Archivematica and Access to Memory projects. My role is

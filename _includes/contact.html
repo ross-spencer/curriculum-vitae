@@ -55,21 +55,25 @@
     <br/>
     <h2 class="container-block-title">Blogs</h2>
 
+    <!-- Static coded values below - we can improve on this if we can
+         work out a better approach to the making the layout flexible.
+    -->
+
     {% if sidebar.wordpress-1 %}
     <li class="wordpress"><i class="fab fa-wordpress"></i>
-      <a href="http://openpreservation.org/blog/author/ross-spencer/" target="_blank">{{ sidebar.wordpress-1 }}</a>
+      <a href="http://exponentialdecay.co.uk/blog" target="_blank">{{ sidebar.wordpress-1 }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.wordpress-2 %}
     <li class="wordpress"><i class="fab fa-wordpress"></i>
-      <a href="http://blog.nationalarchives.gov.uk/blog/author/rspencer/" target="_blank">{{ sidebar.wordpress-2 }}</a>
+      <a href="https://openpreservation.org/author/ross-spencer/" target="_blank">{{ sidebar.wordpress-2 }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.wordpress-3 %}
     <li class="wordpress"><i class="fab fa-wordpress"></i>
-      <a href="http://{{ sidebar.wordpress-3 }}" target="_blank">{{ sidebar.wordpress-3 }}</a>
+      <a href="https://blog.nationalarchives.gov.uk/author/rspencer/" target="_blank">{{ sidebar.wordpress-3 }}</a>
     </li>
     {% endif %}
 
