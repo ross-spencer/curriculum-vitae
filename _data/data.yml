@@ -5,11 +5,11 @@ career-profile:
     summary: |
         Digital preservation domain expert and full-stack developer. I am a
         researcher, analyst, and programmer. I currently work as a Digital
-        Preservation Specialist at Ravensburger AG. I worked previously on the
-        Archivematica project for 3.5 years and before then in the national
-        archives of New Zealand, and also the United Kingdom. I have a keen
-        interest in records and information management. I have UK security
-        check clearance valid for 10 years from 3 July 2012.
+        Preservation Specialist for the international games and book publisher
+        Ravensburger AG. I worked previously on the Archivematica project for
+        three and a half years and before then at The National Archives of New
+        Zealand, and also the United Kingdom. I have a keen interest in records
+        and information management.
 
 sidebar:
     about: False        # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -26,6 +26,7 @@ sidebar:
     email: all.along.the.watchtower2001+cv@gmail.com
     linkedin: ross-spencer-b6b9b758/
     twitter: '@beet_keeper'
+    orcid: https://orcid.org/0000-0002-5144-9794
 
     # Github organisations.
     github-1: exponential-decay
@@ -45,7 +46,7 @@ sidebar:
         level: Novice
 
       - idiom: German
-        level: Beginner
+        level: Novice
 
     interests:
       - item: Music
@@ -76,11 +77,26 @@ experiences:
       details: |
         Conception of a strategy for digital long-term archiving and digital
         preservation "lore" at Ravensburger AG. In collaboration with the
-        corporate archivist this is a new role with more details yet to be
-        established.
+        corporate archivist the task requires the establishment of all the
+        pieces that contribute to a successful digital preservation programme
+        (organizational alignment, strategy and policies, tooling); and
+        the embedding of digital preservation within the company culture across
+        international boundaries, and the brands Ravensburger, Thinkfun, and
+        Brio, and subsidiaries. Among other tasks, such as handling
+        inquiries coming into the corporate archive, my primary efforts are
+        as follows.
+
+          - Development of a strategy for the organisation and identification
+          of workflows that we need to develop.
+          - Replacement of the legacy archival catalog with a modern linked
+          open data alternative.
+          - Proof of concept project with a leading digital preservation
+          platform.
+          - Outreach and embedding of digital preservation concepts across the
+          organisation.
 
     - role: Software Developer
-      time: 2020 - Present
+      time: 2020 - 2021
       company: Independent collaboration with Yale University Library
       details: |
         A 350+ hour development project in collaboration with Yale University
@@ -278,9 +294,21 @@ publications:
     title: Publications
     intro:
     papers:
+      - title: "Fractal in detail: What information is in a file format identification report?"
+        authors: Spencer, R.
+        conference: Code4Lib, May 2022 (2022), 53.
+        link: https://journal.code4lib.org/articles/16351
+        nolink: False
+
+      - title: "Wikidata: A Magic Portal for Siegfried and Roy"
+        authors: Spencer, R. Thornton, K. Lehane, R. Cochrane, E.
+        conference: "iPRES Intl. Conf. on Digital Preservation. Proceedings 2021, (2021)."
+        link: https://osf.io/7bjgh/
+        nolink: False
+
       - title: Archivematica as a Case Study for Sustained Digital Preservation.
         authors: Blewer, A. Romkey, S. Spencer, R.
-        conference: "iPRES Intl. Conf. on Digital Preservation. Proceedings 2019, (2019), Not yet published."
+        conference: "iPRES Intl. Conf. on Digital Preservation. Proceedings 2019, (2019)."
         link: https://ipres2019.org/static/pdf/iPres2019_paper_104.pdf
         nolink: False
 
@@ -337,6 +365,22 @@ talks:
     intro:
 
     where:
+
+      - where: Australasia Preserves Meetup (April), 2022
+        title: "Working with Siegfried, Wikidata, and Wikibase"
+        link:
+        nolink: true
+
+      - where: Open Preservation Foundation Guest Talk (December), 2021
+        title: "Working with Siegfried, Wikidata, and Wikibase"
+        link: https://www.youtube.com/watch?v=WDppa_5RfwI
+        nolink: false
+
+      - where: "iPRES Intl. Conf. on Digital Preservation. (October), 2021"
+        title: "Wikidata: A Magic Portal for Siegfried and Roy"
+        link: https://www.youtube.com/watch?v=HtYJaTyeZJM
+        nolink: false
+
       - where: Information Matintainers Monthly Meetup (August), 2020
         title: "Something something twenty years open source..."
         link: http://exponentialdecay.co.uk/blog/information-maintainers-talk-something-something-twenty-years-open-source/
