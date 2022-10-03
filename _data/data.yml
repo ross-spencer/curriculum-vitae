@@ -8,8 +8,8 @@ career-profile:
         Preservation Specialist for the international games and book publisher
         Ravensburger AG. I worked previously on the Archivematica project for
         three and a half years and before then at The National Archives of New
-        Zealand, and also the United Kingdom. I have a keen interest in records
-        and information management.
+        Zealand, and also the United Kingdom. I have a keen interest in
+        information and records management.
 
 sidebar:
     about: False        # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -28,7 +28,7 @@ sidebar:
     twitter: '@beet_keeper'
     orcid: https://orcid.org/0000-0002-5144-9794
 
-    # Github organisations.
+    # Github organizations.
     github-1: exponential-decay
     github-2: httpreserve
     github-3: kval-access-language
@@ -86,14 +86,46 @@ experiences:
         inquiries coming into the corporate archive, my primary efforts are
         as follows.
 
-          - Development of a strategy for the organisation and identification
+        Key tasks of the role:
+
+          - Development of a strategy for the organization and identification
           of workflows that we need to develop.
           - Replacement of the legacy archival catalog with a modern linked
           open data alternative.
           - Proof of concept project with a leading digital preservation
           platform.
           - Outreach and embedding of digital preservation concepts across the
-          organisation.
+          organization.
+
+    - role: Implementing AtoM in the Pacific
+      time: July 2021 - December 2021
+      company: PARBICA; Digipres Collective
+      details: |
+        Consultancy role with the Digipres Collective for PARBICA (Pacific
+        Bureau of the International Council on Archives (ICA)). Developing
+        guidance for implementing Access to Memory (AtoM) in the Pacific. The
+        project developed a PARBICA toolkit module that elaborated on how to run
+        a shared cloud-instance of AtoM in the Pacific. In collaboration with
+        colleagues in the Digipres Collective, the module is aimed at helping
+        PARBICA and its member institutions to answer critical questions around
+        governance, administration, data-backup, and other technical aspects,
+        that should help assure organizations that they will have access to an
+        instance of AtoM that is most suited to their needs. We prepared for the
+        toolkit modules by running a pilot project with a number of Pacific
+        institutions, providing training, and toolkit walk-throughs by way of
+        creating guidance interactively and learning from those intended to use
+        the modules as we went. The initial work-effort involved running a
+        survey to understand readiness and the potential scope of a pilot. A
+        user-guide was published by PARBICA that was modified by the Digipres
+        Collective from guidance originally developed by the Association for
+        Manitoba Archives (AMA). It is hoped this guidance will be further built
+        upon by similar projects in the future. Evaluation and lessons-learned
+        documents were provided to the PARBICA team after the wrap-up of the
+        project.
+
+          - [PARBICA: Recordkeeping for Good Governance Toolkit (Website)](https://parbica.org/sharing-knowledge/publications/the-recordkeeping-for-good-governance-toolkit/)
+          - [Guideline 25: Implementing Access to Memory (AtoM) in the Pacific (PDF)](https://parbica.org/wp-content/uploads/2022/08/25-AtoM.pdf)
+          - [User Guide for Guideline 25 Implementing Access to Memory (AtoM) in the Pacific (PDF)](https://parbica.org/wp-content/uploads/2022/08/25-AtoM-User-Guide.pdf)
 
     - role: Software Developer
       time: 2020 - 2021
@@ -103,7 +135,7 @@ experiences:
         Library and Siegfried's maintainer to integrate Wikidata sources into
         the format identification tool. The project involved establishing and
         maintaining a regular cadence of effort over the course of
-        approximiately seven months in my spare time. My time was contributed
+        approximately seven months in my spare time. My time was contributed
         on a pro-bono basis and I organized and tracked that effort as I would
         contracting. Development required the analysis and cleaning of the data
         in Wikidata; coralling the data into a format suitable for Siegfried;
@@ -111,6 +143,13 @@ experiences:
         extension. We are still working on establishing the type of ecosystem
         required to introduce the digital preservation community into that of
         Wikidata's.
+
+        More information about the Wikidata identifier can be found on the
+        Siegfried Wiki.
+
+          - [Wikidata Identifier Guide](https://github.com/richardlehane/siegfried/wiki/Wikidata-identifier).
+
+        Key tasks of the role:
 
           - Understanding the Siegfried code-base and learning how to integrate
           a new data source.
@@ -122,51 +161,55 @@ experiences:
           September 2020.
 
     - role: Software Developer
-      time: 2017 - March 2021
+      time: 2017 - 2021
       company: Artefactual Systems Inc., Canada
       details: |
-        Working on the Archivematica and Access to Memory projects. My role is
-        to analyze digital preservation workflow requirements and find software
-        based solutions to satisfy those. Analysis may be done on client
-        requirements or on those set-out by the analyst teams at Artefactual.
+        Working on the Archivematica and Access to Memory projects. The role
+        asked me to analyze digital preservation workflow requirements and find
+        software based solutions to satisfy those. Analysis may be done on
+        client requirements or on those set-out by the analyst teams at
+        Artefactual.
+
         Archivematica is developed in Python but solutions may not always
         require the use of code, nor be focused on the system itself.
 
-        I have been involved in the Access to Memory (AtoM) project in the
-        migration of legacy archival records to formats compatible with the
-        system.
+        I was involved in the Access to Memory (AtoM) project in the migration
+        of legacy archival records to formats compatible with the system.
 
         I have delivered technical training at three Archivematica Camps, in
         South Africa and the United States and participated in an Archivematica
         camp in the Netherlands. I have also developed training materials on an
         ad-hoc basis depending on a client's needs. The most recent training I
-        developed was on an ad-hoc basis for a client in Winnipeg.
+        developed was for a client in Winnipeg in the province of Manitoba,
+        Canada.
 
-        My experience with Archivematica and its clients has given me
-        broad experience of some of the challenges facing those in memory
-        institutions. It has given me an opportunity to learn more about
-        systems like Dataverse, and has asked me to consider many different
-        approaches to the work we're doing in the GLAM sector.
+        The experience with Archivematica and its clients has given me broad
+        experience of the challenges facing those in memory institutions. It
+        gave me an opportunity to learn more about systems like Dataverse, and
+        asked me to consider many different approaches to the work we're doing
+        in the GLAM sector.
 
-        Recently I have had the opportunity to consider novel solutions to
-        challenges like de-duplication, and digital preservation reporting
-        and repository maintenance. Those efforts are still in-progress.
+        Some of my more interesting projects at Artefactual gave me the
+        opportunity to consider novel solutions to challenges like
+        de-duplication, digital preservation reporting, and repository
+        maintenance.
+
+        Key tasks of the role:
 
           - Develop, integrate, and test software for Artefactual clients or
           internal projects, in alignment with the goals and standards of the
           open source projects and the company.
-          - Create designs, proposals and estimates for client or internal
+          - Create designs, proposals, and estimates for client or internal
           solutions, new software or changes to existing systems; clearly
           communicate how designs meet user, non-functional or architectural
           goals and requirements.
           - Create developer focused training collateral and deliver training
           in remote workshops or client site visits.
           - Work collaboratively with other members of the Project Delivery
-          Team, and with other Business Units across the company.
+          Team, and with other business units across the company.
           - Provide public outreach and community support relating to
           Archivematica or AtoM as open-source projects, including
           participation in conferences and software camps.
-
 
     - role: Digital Preservation Analyst
       time: 2013 - 2017
@@ -192,6 +235,8 @@ experiences:
         I was a member of the Archives New Zealand Waiata group, Nga Manu Iere
         which helped me to foster a more personal and cultural understanding of
         New Zealand and its traditions.
+
+        Key tasks of the role:
 
           - Policy development across New Zealand's government sector.
           - Development of digital preservation workflows.)
@@ -223,7 +268,10 @@ experiences:
         developing solutions for them in Python, PHP, and C++. Though much of
         it was completed in my spare time to then convert into work
         assignments, for example, the
-        [PRONOM signature development utility](http://www.nationalarchives.gov.uk/pronom/sigdev/index.htm).
+        [PRONOM signature development utility](http://www.nationalarchives.gov.uk/pronom/sigdev/index.htm),
+        now also [ffdev.info](https://ffdev.info).
+
+        Key tasks of the role:
 
           - PRONOM and DROID signature development.
           - Requirements analysis and community outreach.
@@ -257,9 +305,11 @@ experiences:
         stack and technical specifications remains immeasurable in the roles I
         have pursued in my current domain.
 
+        Key tasks of the role:
+
           - Reverse engineering.
           - Analysis of specifications.
-          - Protocol level development.
+          - Protocol level development of software.
 
 projects:
     title: Projects
@@ -365,6 +415,11 @@ talks:
     intro:
 
     where:
+
+      - where: "iPRES Intl. Conf. on Digital Preservation. (September), 2022"
+        title: "Registering our preservation intentions: A collaborative workshop on digital preservation registries"
+        link: https://web.archive.org/web/20221003142249/https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/b4c21be4d96c4b369711d9d242185451
+        nolink: true
 
       - where: Australasia Preserves Meetup (April), 2022
         title: "Working with Siegfried, Wikidata, and Wikibase"
