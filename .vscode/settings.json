@@ -29,4 +29,10 @@
     "[yaml]": {
         "editor.rulers": [80],
     },
+    "cSpell.words": [
+        "Cardano",
+        "exponentialdecay",
+        "nolink",
+        "PREMIS"
+    ],
 }
