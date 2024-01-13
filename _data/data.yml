@@ -73,8 +73,31 @@ education:
 
 experiences:
 
+    - role: Senior Systems Architect
+      time: 2023 - Present
+      company: Iona Systems Ltd. International
+      details: |
+        Senior Systems Architect at Iona Systems working on the Orcfax and
+        Arkly initiatives.
+
+        Key tasks of the role:
+
+         - Continuing development of Web3 oracle technology for the Cardano
+         blockchain.
+         - Continuing research into the implications of permanent storage using
+         Arweave and the implications of Arweave's storage endowment model.
+         - Identification of requirements and technology gaps in Orcfax and
+         Arkly solutions.
+         - Developing interfaces and cross-process interactions across a
+         decentralized network of oracle nodes (data gathering, validation,
+         and publication).
+         - Liaison with external contractors and customers.
+         - Development and implementation of coding standards and continuous
+         integration.
+         - Software and solutions development and maintenance.
+
     - role: Senior Software Developer
-      time: 2022 - Present
+      time: 2022 - 2023
       company: Iona Systems Ltd. International
       details: |
         Senior software developer at Iona Systems working on the Orcfax and
@@ -85,7 +108,7 @@ experiences:
           - Development of Web3 oracle technology for the Cardano blockchain.
           - Development of metadata standards.
           - Software development and maintenance.
-          - Building team capacity and standards.
+          - Building team capability and standards.
 
     - role: Digital preservation Specialist
       time: 2021 - 2023
