@@ -50,16 +50,6 @@ sidebar:
       - idiom: German
         level: Novice
 
-    interests:
-      - item: Music
-        text: I love singing and listening to all kinds of music. Aspirations to play piano again.
-
-      - item: Sports
-        text: I enjoy playing football, I am a fan of everything from motorsports to snooker.
-
-      - item: Coding
-        text: Remains my day-to-day hobby. I enjoy thinking about new problems and being creative through code.
-
 education:
     - degree: MA Digital Culture and Technology
       university: Kings College London
@@ -79,8 +69,6 @@ experiences:
       details: |
         Senior Systems Architect at Iona Systems working on the Orcfax and
         Arkly initiatives.
-
-        Key tasks of the role:
 
          - Continuing development of Web3 oracle technology for the Cardano
          blockchain.
@@ -155,17 +143,15 @@ experiences:
         the embedding of digital preservation within the company culture across
         international boundaries, and the brands Ravensburger, Thinkfun, and
         Brio, and subsidiaries. Among other tasks, such as handling
-        inquiries coming into the corporate archive, my primary efforts are
-        as follows.
-
-        Key tasks of the role:
+        inquiries coming into the corporate archive,
 
           - Development of a strategy for the organization and identification
           of workflows that we need to develop.
           - Replacement of the legacy archival catalog with a modern linked
           open data alternative.
-          - Proof of concept project with a leading digital preservation
-          platform.
+          - Tender development for a long-term digital preservation solution.
+          - Collaborative proof of concept program for a long-term preservation
+          system with LIBNOVA.
           - Outreach and embedding of digital preservation concepts across the
           organization.
 
@@ -175,29 +161,7 @@ experiences:
       details: |
         Consultancy role with the Digipres Collective for PARBICA (Pacific
         Bureau of the International Council on Archives (ICA)). Developing
-        guidance for implementing Access to Memory (AtoM) in the Pacific. The
-        project developed a PARBICA toolkit module that elaborated on how to run
-        a shared cloud-instance of AtoM in the Pacific. In collaboration with
-        colleagues in the Digipres Collective, the module is aimed at helping
-        PARBICA and its member institutions to answer critical questions around
-        governance, administration, data-backup, and other technical aspects,
-        that should help assure organizations that they will have access to an
-        instance of AtoM that is most suited to their needs. We prepared for the
-        toolkit modules by running a pilot project with a number of Pacific
-        institutions, providing training, and toolkit walk-throughs by way of
-        creating guidance interactively and learning from those intended to use
-        the modules as we went. The initial work-effort involved running a
-        survey to understand readiness and the potential scope of a pilot. A
-        user-guide was published by PARBICA that was modified by the Digipres
-        Collective from guidance originally developed by the Association for
-        Manitoba Archives (AMA). It is hoped this guidance will be further built
-        upon by similar projects in the future. Evaluation and lessons-learned
-        documents were provided to the PARBICA team after the wrap-up of the
-        project.
-
-          - [PARBICA: Recordkeeping for Good Governance Toolkit (Website)](https://parbica.org/sharing-knowledge/publications/the-recordkeeping-for-good-governance-toolkit/)
-          - [Guideline 25: Implementing Access to Memory (AtoM) in the Pacific (PDF)](https://parbica.org/wp-content/uploads/2022/08/25-AtoM.pdf)
-          - [User Guide for Guideline 25 Implementing Access to Memory (AtoM) in the Pacific (PDF)](https://parbica.org/wp-content/uploads/2022/08/25-AtoM-User-Guide.pdf)
+        guidance for implementing Access to Memory (AtoM) in the Pacific.
 
     - role: Software Developer (contract (pro-bono))
       time: 2020 - 2021
@@ -205,83 +169,25 @@ experiences:
       details: |
         A 350+ hour development project in collaboration with Yale University
         Library and Siegfried's maintainer to integrate Wikidata sources into
-        the format identification tool. The project involved establishing and
-        maintaining a regular cadence of effort over the course of
-        approximately seven months in my spare time. My time was contributed
-        on a pro-bono basis and I organized and tracked that effort as I would
-        contracting. Development required the analysis and cleaning of the data
-        in Wikidata; coralling the data into a format suitable for Siegfried;
-        and the Siegfried backend development required to handle the new
-        extension. We are still working on establishing the type of ecosystem
-        required to introduce the digital preservation community into that of
-        Wikidata's.
-
-        More information about the Wikidata identifier can be found on the
-        Siegfried Wiki.
-
-          - [Wikidata Identifier Guide](https://github.com/richardlehane/siegfried/wiki/Wikidata-identifier).
-
-        Key tasks of the role:
-
-          - Understanding the Siegfried code-base and learning how to integrate
-          a new data source.
-          - Analysis and cleaning of the Wikidata sources and understanding how
-          to make it a coherent source of information for Siegfried.
-          - Regular collaboration and sharing of ideas with the Yale team and
-          Richard Lehane.
-          - Development of the identifier to deliver the first iteration in
-          September 2020.
+        the format identification tool.
 
     - role: Software Developer
       time: 2017 - 2021
       company: Artefactual Systems Inc., Canada
       details: |
-        Working on the Archivematica and Access to Memory projects. The role
+        Developer on the Archivematica and Access to Memory projects. The role
         asked me to analyze digital preservation workflow requirements and find
         software based solutions to satisfy those. Analysis may be done on
         client requirements or on those set-out by the analyst teams at
         Artefactual.
 
-        Archivematica is developed in Python but solutions may not always
-        require the use of code, nor be focused on the system itself.
-
-        I was involved in the Access to Memory (AtoM) project in the migration
-        of legacy archival records to formats compatible with the system.
-
-        I have delivered technical training at three Archivematica Camps, in
-        South Africa and the United States and participated in an Archivematica
-        camp in the Netherlands. I have also developed training materials on an
-        ad-hoc basis depending on a client's needs. The most recent training I
-        developed was for a client in Winnipeg in the province of Manitoba,
-        Canada.
-
-        The experience with Archivematica and its clients has given me broad
-        experience of the challenges facing those in memory institutions. It
-        gave me an opportunity to learn more about systems like Dataverse, and
-        asked me to consider many different approaches to the work we're doing
-        in the GLAM sector.
-
-        Some of my more interesting projects at Artefactual gave me the
-        opportunity to consider novel solutions to challenges like
-        de-duplication, digital preservation reporting, and repository
-        maintenance.
-
-        Key tasks of the role:
-
-          - Develop, integrate, and test software for Artefactual clients or
-          internal projects, in alignment with the goals and standards of the
-          open source projects and the company.
-          - Create designs, proposals, and estimates for client or internal
-          solutions, new software or changes to existing systems; clearly
-          communicate how designs meet user, non-functional or architectural
-          goals and requirements.
-          - Create developer focused training collateral and deliver training
-          in remote workshops or client site visits.
-          - Work collaboratively with other members of the Project Delivery
-          Team, and with other business units across the company.
-          - Provide public outreach and community support relating to
-          Archivematica or AtoM as open-source projects, including
-          participation in conferences and software camps.
+        - Development in Python, and Golang, across Artefactual's suite of
+        tools.
+        - Creation of test corpora to improve Artefactual's testing processes.
+        - Delivery of technical training at Archivematica training camps.
+        - Requirements analysis and development of solutions for organizations
+        across the GLAM sector as wide and varied as local archives, social
+        history archives, to national museums and institutions.
 
     - role: Digital Preservation Analyst
       time: 2013 - 2017
@@ -293,25 +199,8 @@ experiences:
         digital preservation guidance. Having worked with colleagues to help
         enable Archive New Zealand's first born-digital transfers.
 
-        The organization required us to work closely with digital preservation
-        colleagues at National Library New Zealand and the Alexander Turnbull
-        Library to develop joint-digital preservation strategy and policy.
-
-        Our mandate also enabled us to perform digital preservation outreach
-        tasks across the New Zealand government sector.
-
-        I maintained strong personal links with the wider digital preservation
-        community. It is hoped our benefit from the community's effort was
-        somewhat equal to what I hope we were able to contribute.
-
-        I was a member of the Archives New Zealand Waiata group, Nga Manu Iere
-        which helped me to foster a more personal and cultural understanding of
-        New Zealand and its traditions.
-
-        Key tasks of the role:
-
           - Policy development across New Zealand's government sector.
-          - Development of digital preservation workflows.)
+          - Development of digital preservation workflows.
           - Collaboration with teams to resolve complex technical issues.
           - Outreach within the New Zealand digital preservation community.
 
@@ -319,98 +208,23 @@ experiences:
       time: 2009 - 2012
       company: The National Archives, United Kingdom
       details: |
-        The research and provision of solutions to the end of preserving
+        The research and provision of solutions with the goal of preserving
         government's digital records.
 
-        Part of my focus was researching file format specifications and
-        developing mechanisms to identify those file formats using regular
-        expression patterns unique to The National Archives' PRONOM database.
-        My role was also centered on the development of policy to be followed
-        internally, and by contractors employed on projects such as those for
-        digitization.
-
-        I was able to make connections with the wider digital preservation
-        community while in my role at The National Archives where we were
-        invited to participate in projects such as the Unified Digital File
-        Formats Registry (UDFR); or working groups such as that for the
-        development of JPEG2000 policy and procedures at the Wellcome
-        Trust in the UK.
-
-        I was able to continue programming for The National Archives, UK,
-        developing solutions for them in Python, PHP, and C++. Though much of
-        it was completed in my spare time to then convert into work
-        assignments, for example, the
-        [PRONOM signature development utility](http://www.nationalarchives.gov.uk/pronom/sigdev/index.htm),
-        now also [ffdev.info](https://ffdev.info).
-
-        Key tasks of the role:
-
-          - PRONOM and DROID signature development.
-          - Requirements analysis and community outreach.
-          - File format Analysis.
-          - Development of procedure and standards for born-digital transfer.
+         - Primary lead for PRONOM updates and maintenance.
+         - Research and understanding of file format specifications and
+         translation into file format signatures.
+         - Development of government policy and procedures in support of
+         government digital transfers.
+         - Collaboration in international projects including UDFR, PLANETS.
 
     - role: Junior Analyst Programmer
       time: 2007 - 2009
       company: Red Box Recorders, United Kingdom
       details: |
-        Junior Analyst Programmer developing VOIP (Voice over IP) recording
-        solutions; written primarily in C++. Areas of focus included improving
-        existing solutions for recording Avaya, Nortel, Cisco, Ericsson and SIP
-        VOIP calls, and implementing new solutions for VOIP providers such as
-        Panasonic. Some other important protocols I focused on included, H225,
-        Q931, and MGCP. I was also involved in back end development for our web
-        front-end maintaining an ISAPI DLL. Front-end development required
-        JavaScript and XHTML skills to add functionality to a HTML-form based
-        interface. I introduced the use of AJAX to the recorder front-end.
-
-        At Red Box I saw through a number of important projects including the
-        implementation of a number of new features such as the development of a
-        search filtering mechanism; and a Cisco-based recording as a service
-        solution. I developed fixes for many different areas of the system as
-        part of additional third-line support duties.
-
-        Through my work at Red Box Recorders I refined my problem solving
-        abilities and developed a better grasp for team work and meeting
-        project deadlines. The contribution of this role to my knowledge of
-        digital forensics, reverse engineering, and understanding of the IP
-        stack and technical specifications remains immeasurable in the roles I
-        have pursued in my current domain.
-
-        Key tasks of the role:
-
-          - Reverse engineering.
-          - Analysis of specifications.
-          - Protocol level development of software.
-
-projects:
-    title: Projects
-    intro:
-
-    assignments:
-      - title: Painter Goblin
-        link: "https://twitter.com/paintergoblin"
-        tagline: "A Twitter bot remixing commons-available art discovered on Wikidata."
-
-      - title: NASA Wakup Calls
-        link: "https://github.com/nasawakeupcalls"
-        tagline: "A chronology of NASA wakeup call information turned into data. A pet project, combining my hobbies of space, music, and data."
-
-      - title: the-fr.org
-        link: "http://the-fr.org"
-        tagline: "The Format Registry [dot] org. A PRONOM mirror developed using linked-open-data principles with SPARQL access to PRONOM's data."
-
-      - title: HTTPreserve
-        link: "http://httpreserve.info/"
-        tagline: "A project to enable users to audit broken hyperlinks and find the earliest and latest entries in the Internet Archive."
-
-      - title: KVAL Access Language
-        link: "https://github.com/kval-access-language"
-        tagline: "A dialect for adding data to, and retrieving data from key-value stores."
-
-      - title: "Brainscape: Digital Preservation"
-        link: "http://exponentialdecay.co.uk/blog/brainscape-flashcards-for-digital-preservation/"
-        tagline: "Open source digital-preservation flash cards."
+        Junior Analyst Programmer (C++) developing VOIP (Voice over IP)
+        recording solutions; through translation of VoIP specifications or
+        reverse engineering.
 
 publications:
     title: Publications
@@ -603,35 +417,6 @@ talks:
         title: The risky business of digital preservation. The application of risk models to digital file format obsolescence.
         link: http://exponentialdecay.co.uk/blog/risk-modelling-uncertainty-and-file-format-obsolesence-european-conference-on-digital-archives-2010/
         nolink: False
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-
-      - name: Golang
-        level: 75%
-
-      - name: Python
-        level: 90%
-
-      - name: C/C++
-        level: 56%
-
-      - name: PHP
-        level: 66%
-
-      - name: Linux
-        level: 80%
-
-      - name: Databases
-        level: 68%
-
-      - name: Semantic web
-        level: 75%
-
-      - name: Web languages
-        level: 85%
 
 awards:
     title: Awards and Honours
