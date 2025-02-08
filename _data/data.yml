@@ -96,6 +96,39 @@ experiences:
          integration.
          - Software and solutions development and maintenance.
 
+    - role: Developer (contract)
+      time: 2024 - Present
+      company: University of Basel
+      details: |
+        Development of improved logging in the University's GOCFL OCFL
+        implementation.
+
+         - Learn OCFL features in greater depth.
+         - Work with Univervisty of Basel colleagues to Identify and document
+         sources of errors in GOCFL and their triggers.
+         - Develop test corpora to test GOCFL functionality and improve
+         integration testing.
+         - Integrate, document, and improve, GOCFL's new error factory
+         capabilities.
+         - Identification, logging, and fixes for different issues discovered
+         during the term of the contract.
+
+    - role: Developer (contract)
+      time: June 2024
+      company: Archives New Zealand
+      details: |
+        Migration of custom developed source code in support of digital
+        preservation functions to Python 3. Improve branding and usability of
+        the Demystify collection profiling tool.
+
+         - Migrate custom Rosetta ingest functionality from Python 2 to 3.
+         - Demystify usability improvements including client-side allowlist and
+         denylist functions.
+         - Analysis and design of Demystify's client-side identification and
+         reporting capability.
+         - Liaise with Richard Lehane to integrate Siegfreid WASM libraries into
+         the Demystify front-end.
+
     - role: Senior Software Developer
       time: 2022 - 2023
       company: Iona Systems Ltd. International
@@ -136,7 +169,7 @@ experiences:
           - Outreach and embedding of digital preservation concepts across the
           organization.
 
-    - role: Implementing AtoM in the Pacific
+    - role: Implementing AtoM in the Pacific (contract)
       time: July 2021 - December 2021
       company: PARBICA; Digipres Collective
       details: |
@@ -166,7 +199,7 @@ experiences:
           - [Guideline 25: Implementing Access to Memory (AtoM) in the Pacific (PDF)](https://parbica.org/wp-content/uploads/2022/08/25-AtoM.pdf)
           - [User Guide for Guideline 25 Implementing Access to Memory (AtoM) in the Pacific (PDF)](https://parbica.org/wp-content/uploads/2022/08/25-AtoM-User-Guide.pdf)
 
-    - role: Software Developer
+    - role: Software Developer (contract (pro-bono))
       time: 2020 - 2021
       company: Independent collaboration with Yale University Library
       details: |
