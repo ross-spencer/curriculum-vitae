@@ -221,6 +221,14 @@ publications:
     title: Publications
     intro:
     papers:
+      - title: "Digital Capability, Open-Source Use, and Interoperability Standards Within the National Health Service in England: Survey of Health Care Trusts"
+        authors: |
+          Bennion, M.
+          Spencer, R.
+          Moore, R. K.
+          Kenyon, R.
+        conference: "JMIR Human Factors (2025)"
+        nolink: True
       - title: "PREMIS Events Through an Event-sourced Lens"
         authors: Spencer, R.
         conference: Code4Lib, April 2023 (2023), 56.
