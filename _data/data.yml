@@ -61,6 +61,21 @@ education:
 
 experiences:
 
+    - role: Developer (Contract)
+      time: 2026
+      company: FHNW Basel - Institute Experimental Design and Media Cultures
+      details: |
+        Development of a set of tools forming the outline of the RO-CRATE
+        workflow. The workflow extracts and downloads content from the INK
+        media server and creates those according to the RO-CRATE standard.
+
+        - Gather requirements and design a solution for the INK media server.
+        - Creation of the ZenodoCFL tool to list, gather, and crate.
+        - Improvement of GOCFL to ensure the RO-CRATE package is wrapped
+        correctly using the GOCFL standard.
+        - Hand-off and delivery of a report detailing potential next steps
+        following the delivery of the component(s).
+
     - role: Senior Systems Architect
       time: 2023 - Present
       company: Iona Systems Ltd. International
