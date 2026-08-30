@@ -61,6 +61,15 @@ education:
 
 experiences:
 
+    - role: Research Assistant
+      time: 2026 - present
+      company: HTWK Leipzig
+      details: |
+        Research assistant for the HyKe project: Hybrid cultural heritage:
+        Future-proof strategies for federal film preservation (Hybrides
+        Kulturerbe: Zukunftssichere Strategien für die
+        Bundessicherungsverfilmung)
+
     - role: Developer (Contract)
       time: 2026
       company: FHNW Basel - Institute Experimental Design and Media Cultures
@@ -77,7 +86,7 @@ experiences:
         following the delivery of the component(s).
 
     - role: Senior Systems Architect
-      time: 2023 - Present
+      time: 2023 - 2026
       company: Iona Systems Ltd. International
       details: |
         Senior Systems Architect working on the Orcfax and Arkly platforms.
