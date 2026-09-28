@@ -446,6 +446,9 @@ talks:
 awards:
     title: Awards and Honours
     info:
+      - link:
+        title: Angela Dappert Memorial Award for Digital Preservation (2026)
+        text: Talboom, L., Tyler, T., Spencer, R., & Barrera-Gomez, J. (2026). Myths, Risks, and Realities of Floppy Disk Preservation. iPRES Conference Proceedings 2026
       - link: https://www.archivists.org.au/news/2017-archives-manuscripts-emerging-writers-award-announced
         title: Archives and Manuscripts Sigrid McCausland Emerging Writers Award (2017)
         text: Volume 45, Number 2, July 2017 – Ross Spencer, ‘Binary Trees? Automatically identifying the links between born-digital records’.
